@@ -1,7 +1,7 @@
 {
   "name": "nodelib-template",
   "version": "0.1.0",
-  "description": "node library that serve a purpose",
+  "description": "node library",
   "main": "dist/index.js",
   "repository": "https://github.com/eyousefifar/nodelib-template.git",
   "author": "Erfan Yousefifar",
